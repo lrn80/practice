@@ -24,6 +24,6 @@
 
   实现思路：
 
-  <img src="images/2.png" style="zoom:67%;" />
+  <img src="images/2.png" style="zoom:40%;" />
 
   
