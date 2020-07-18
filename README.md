@@ -10,7 +10,7 @@
 
   实现思路：
 
-  ![](images/3.png)
+  <img src="images/3.png" style="zoom:50%;" />
 
   
 
@@ -24,6 +24,6 @@
 
   实现思路：
 
-  <img src="images/2.png" style="zoom:40%;" />
+  <img src="images/2.png" style="zoom:30%;" />
 
   
